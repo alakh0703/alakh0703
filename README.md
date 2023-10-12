@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alakhhbn007@gmail.com**
 
-- ⚡ Fun fact **Always ready for making projects**
+- ⚡ Fun fact **Always making projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
