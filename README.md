@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alakh Patel</h1>
 <h3 align="center">A Student of Software Engineering and Artifical Intelligence</h3>
 
-- 🔭 I’m currently working on ### SynchroNaut
+- 🔭 I’m currently working on SynchroNaut
 
 - 🌱 I’m currently learning **MERN stack, Big Data Tools for ML, Deep Learning, NN, TensorFlow, Mobile Apps Development, and Natural Natural Language Processing**
 
