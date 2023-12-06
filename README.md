@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alakh Patel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alakh0703&label=Profile%20views&color=0e75b6&style=flat" alt="alakh0703" /> </p>
 <h3 align="center">A Student of Software Engineering and Artifical Intelligence</h3>
 
 - 🔭 I’m currently working on SynchroNaut
