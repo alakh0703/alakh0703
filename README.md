@@ -2,9 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakh0703&label=Profile%20views&color=0e75b6&style=flat" alt="alakh0703" /> </p>
 <h3 align="center">A Student of Software Engineering and Artifical Intelligence</h3>
 
-- 🔭 I’m currently working on SynchroNaut
 
-- 🌱 I’m currently learning **MERN stack, Big Data Tools for ML, Deep Learning, NN, TensorFlow, Mobile Apps Development, and Natural Natural Language Processing**
+- 🌱 I’m currently learning **Nextjs, Microservices with Docker and Kubernetes, TensorFlow, and Natural Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alakh0703](https://github.com/alakh0703)
 
