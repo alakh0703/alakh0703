@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alakhhbn007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UUaGmttRwpKox8oGPWDRYTh0xVI6PlPm/view](https://drive.google.com/file/d/1UUaGmttRwpKox8oGPWDRYTh0xVI6PlPm/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UUaGmttRwpKox8oGPWDRYTh0xVI6PlPm/view)
 
 - ⚡ Fun fact **Always making projects !**
 
