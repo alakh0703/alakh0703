@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alakh Patel</h1>
-<h3 align="center">A Student of Software Engineering and Artifical Intelligence</h3>
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, Nextjs, AWS,etc**
 
